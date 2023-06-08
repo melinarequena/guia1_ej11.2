@@ -3,4 +3,4 @@ project(guia1_ej11_2 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej11_2 main.c)
+add_executable(guia1_ej11_2 main.c Departamentos.c Departamentos.h)
